@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "OLED_Library", "OLED_Library\OLED_Library.cproj", "{14B32A82-6199-418D-A870-F6D153EFC9A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B32A82-6199-418D-A870-F6D153EFC9A4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{14B32A82-6199-418D-A870-F6D153EFC9A4}.Debug|AVR.Build.0 = Debug|AVR
+		{14B32A82-6199-418D-A870-F6D153EFC9A4}.Release|AVR.ActiveCfg = Release|AVR
+		{14B32A82-6199-418D-A870-F6D153EFC9A4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
